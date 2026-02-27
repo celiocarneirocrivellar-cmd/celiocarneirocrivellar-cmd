@@ -32,20 +32,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="30" alt="gulp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo" />
+</div>
     
 ---
 
 ###
 
 ## 🌐 Socials:
-<div align="left">
 
 <div align="left">
   <a href="https://instagram.com/celiorezendecarneiro" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto://celio.carneiro.mettis@gmail.com" target="_blank">
+  <a href="mailto:celiorezendecarneir@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/celio-carneiro-5a7bb35a" target="_blank">
@@ -56,16 +56,23 @@
   ## 📊 Estatísticas
 <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=celiocarneirocrivellar-cmd&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=celiocarneirocrivellar-cmd&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=celiocarneirocrivellar-cmd&theme=jolly&utcOffset=8) | 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=celiocarneirocrivellar-cmd&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=celiocarneirocrivellar-cmd&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=celiocarneirocrivellar-cmd&theme=jolly&utcOffset=-3) | 
  | :-: | :-: | :-: |   
   
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celiocarneirocrivellar-cmd&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=celiocarneirocrivellar-cmd&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celiocarneirocrivellar-cmd&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=celiocarneirocrivellar-cmd&theme=jolly&hide_border=true)](https://git.io/streak-stats)
   | :-: | :-: |
 
 </div>
 <br/>
 ---
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+  <img alt="github-sn
+ake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+</picture>
 
 ## 🎯 Objetivo
 
