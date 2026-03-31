@@ -86,6 +86,7 @@ Atuar na área de tecnologia como Desenvolvedor Júnior ou Estagiário, aplicand
 - 🎮 Flappy Bird
 - 💈 Landing Page Barbearia
 - 🛒 Projeto Nega (Sistema de Gestão de Pedidos)
+- 🧮 React Calculator
 
 ---
 
